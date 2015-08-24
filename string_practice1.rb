@@ -1,4 +1,4 @@
-# ´´½¨Ò»¸öÊı×éµÄÔªËØÎª×Ö·û´®µÄ¸÷¸öµ¥´Ê
+ï»¿# åˆ›å»ºä¸€ä¸ªæ•°ç»„çš„å…ƒç´ ä¸ºå­—ç¬¦ä¸²çš„å„ä¸ªå•è¯
 str = "Ruby is an object oriented programming language"
 ary = str.split
 p ary

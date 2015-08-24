@@ -1,4 +1,4 @@
-# 定义方法将汉字数字转换成阿拉伯数字
+﻿# 定义方法将汉字数字转换成阿拉伯数字
 # 代码引用http://www.ituring.com.cn/book/1237
 def han2num(string)
   digit4 = digit3 = digit2 = digit1 = "0"

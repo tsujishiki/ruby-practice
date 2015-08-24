@@ -1,4 +1,4 @@
-# 统计字符串字符数量，已*输出
+﻿# 统计字符串字符数量，已*输出
 str = "Ruby is an object oriented programming language"
 count = Hash.new(0)
 str.each_char do |c|

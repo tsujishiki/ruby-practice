@@ -1,4 +1,4 @@
-# 字符串全部单词的首字母转换为大写
+﻿# 字符串全部单词的首字母转换为大写
 str = "Ruby is an object oriented programming language"
 ary = str.split
 str1 = ""
